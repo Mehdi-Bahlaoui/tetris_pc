@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    print("Hello, World!");
+    print("Hello, World of Tetris!");
     return 0;
 }
